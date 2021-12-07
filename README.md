@@ -1,4 +1,4 @@
-# Ames, IA Housing price prediction model
+# Ames, IA Housing price prediction model 
 ##### Thomaz Moon
 ---
 
